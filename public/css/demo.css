@@ -1,0 +1,24 @@
+input,textarea{
+    outline: none;
+}
+.header-section{
+    border: 1px solid gray;
+}
+.header-section input{
+    outline: none;
+    border: none;
+    text-align: center;
+}
+
+.header-section .companyname{
+    height: 60px;
+    border-bottom: 1px solid gray;
+    font-size: 40px;
+}
+.companyaddress{
+    background: #5a6268;
+    color: white;
+}
+textarea{
+    height: 80px;
+}
